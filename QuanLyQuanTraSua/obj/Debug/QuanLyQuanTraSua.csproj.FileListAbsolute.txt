@@ -1,0 +1,92 @@
+C:\Users\Administrator\Source\Repos\QuanLyQuanTraSua\bin\Debug\QuanLyQuanTraSua.exe.config
+C:\Users\Administrator\Source\Repos\QuanLyQuanTraSua\bin\Debug\QuanLyQuanTraSua.exe
+C:\Users\Administrator\Source\Repos\QuanLyQuanTraSua\bin\Debug\QuanLyQuanTraSua.pdb
+C:\Users\Administrator\Source\Repos\QuanLyQuanTraSua\obj\Debug\QuanLyQuanTraSua.frmAccountProfile.resources
+C:\Users\Administrator\Source\Repos\QuanLyQuanTraSua\obj\Debug\QuanLyQuanTraSua.frmLogin.resources
+C:\Users\Administrator\Source\Repos\QuanLyQuanTraSua\obj\Debug\QuanLyQuanTraSua.frmMain.resources
+C:\Users\Administrator\Source\Repos\QuanLyQuanTraSua\obj\Debug\QuanLyQuanTraSua.frmManager.resources
+C:\Users\Administrator\Source\Repos\QuanLyQuanTraSua\obj\Debug\QuanLyQuanTraSua.Properties.Resources.resources
+C:\Users\Administrator\Source\Repos\QuanLyQuanTraSua\obj\Debug\QuanLyQuanTraSua.csproj.GenerateResource.cache
+C:\Users\Administrator\Source\Repos\QuanLyQuanTraSua\obj\Debug\QuanLyQuanTraSua.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Source\Repos\QuanLyQuanTraSua\obj\Debug\QuanLyQuanTraSua.exe
+C:\Users\Administrator\Source\Repos\QuanLyQuanTraSua\obj\Debug\QuanLyQuanTraSua.pdb
+C:\Users\Administrator\Source\Repos\QuanLyQuanTraSua\obj\Debug\QuanLyQuanTraSua.csproj.AssemblyReference.cache
+G:\Coding sth\asd\QuanLyQuanTraSua\bin\Debug\QuanLyQuanTraSua.exe.config
+G:\Coding sth\asd\QuanLyQuanTraSua\bin\Debug\QuanLyQuanTraSua.exe
+G:\Coding sth\asd\QuanLyQuanTraSua\bin\Debug\QuanLyQuanTraSua.pdb
+G:\Coding sth\asd\QuanLyQuanTraSua\obj\Debug\QuanLyQuanTraSua.frmAccountProfile.resources
+G:\Coding sth\asd\QuanLyQuanTraSua\obj\Debug\QuanLyQuanTraSua.frmLogin.resources
+G:\Coding sth\asd\QuanLyQuanTraSua\obj\Debug\QuanLyQuanTraSua.frmMain.resources
+G:\Coding sth\asd\QuanLyQuanTraSua\obj\Debug\QuanLyQuanTraSua.frmManager.resources
+G:\Coding sth\asd\QuanLyQuanTraSua\obj\Debug\QuanLyQuanTraSua.Properties.Resources.resources
+G:\Coding sth\asd\QuanLyQuanTraSua\obj\Debug\QuanLyQuanTraSua.csproj.GenerateResource.cache
+G:\Coding sth\asd\QuanLyQuanTraSua\obj\Debug\QuanLyQuanTraSua.csproj.CoreCompileInputs.cache
+G:\Coding sth\asd\QuanLyQuanTraSua\obj\Debug\QuanLyQuanTraSua.exe
+G:\Coding sth\asd\QuanLyQuanTraSua\obj\Debug\QuanLyQuanTraSua.pdb
+G:\Coding sth\asd\QuanLyQuanTraSua\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+G:\Coding sth\asd\QuanLyQuanTraSua\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+G:\Coding sth\asd\QuanLyQuanTraSua\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+G:\Coding sth\asd\QuanLyQuanTraSua\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+G:\Coding sth\asd\QuanLyQuanTraSua\bin\Debug\Microsoft.ReportViewer.Common.dll
+G:\Coding sth\asd\QuanLyQuanTraSua\bin\Debug\Microsoft.SqlServer.Types.dll
+G:\Coding sth\asd\QuanLyQuanTraSua\obj\Debug\QuanLyQuanTraSua.csproj.CopyComplete
+G:\Coding sth\asd\QuanLyQuanTraSua\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+G:\Coding sth\asd\QuanLyQuanTraSua\bin\Debug\Microsoft.ReportViewer.Design.dll
+G:\Coding sth\asd\QuanLyQuanTraSua\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+G:\Coding sth\asd\QuanLyQuanTraSua\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+G:\Coding sth\asd\QuanLyQuanTraSua\bin\Debug\EnvDTE.dll
+G:\Coding sth\asd\QuanLyQuanTraSua\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+G:\Coding sth\asd\QuanLyQuanTraSua\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+G:\Coding sth\asd\QuanLyQuanTraSua\bin\Debug\stdole.dll
+G:\Coding sth\asd\QuanLyQuanTraSua\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+G:\Coding sth\asd\QuanLyQuanTraSua\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+G:\Coding sth\asd\QuanLyQuanTraSua\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+G:\Coding sth\asd\QuanLyQuanTraSua\bin\Debug\Microsoft.MSXML.dll
+G:\Coding sth\asd\QuanLyQuanTraSua\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+G:\Coding sth\asd\QuanLyQuanTraSua\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+G:\Coding sth\asd\QuanLyQuanTraSua\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+G:\Coding sth\asd\QuanLyQuanTraSua\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+G:\Coding sth\asd\QuanLyQuanTraSua\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+G:\Coding sth\asd\QuanLyQuanTraSua\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+G:\Coding sth\asd\QuanLyQuanTraSua\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+G:\Coding sth\asd\QuanLyQuanTraSua\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+G:\Coding sth\asd\QuanLyQuanTraSua\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+G:\Coding sth\asd\QuanLyQuanTraSua\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+G:\Coding sth\asd\QuanLyQuanTraSua\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\Coding sth\asd\QuanLyQuanTraSua\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\Coding sth\asd\QuanLyQuanTraSua\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\Coding sth\asd\QuanLyQuanTraSua\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\Coding sth\asd\QuanLyQuanTraSua\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\Coding sth\asd\QuanLyQuanTraSua\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\Coding sth\asd\QuanLyQuanTraSua\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\Coding sth\asd\QuanLyQuanTraSua\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\Coding sth\asd\QuanLyQuanTraSua\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\Coding sth\asd\QuanLyQuanTraSua\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\Coding sth\asd\QuanLyQuanTraSua\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+G:\Coding sth\asd\QuanLyQuanTraSua\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+G:\Coding sth\asd\QuanLyQuanTraSua\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+G:\Coding sth\asd\QuanLyQuanTraSua\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+G:\Coding sth\asd\QuanLyQuanTraSua\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+G:\Coding sth\asd\QuanLyQuanTraSua\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+G:\Coding sth\asd\QuanLyQuanTraSua\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+G:\Coding sth\asd\QuanLyQuanTraSua\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+G:\Coding sth\asd\QuanLyQuanTraSua\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+G:\Coding sth\asd\QuanLyQuanTraSua\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+G:\Coding sth\asd\QuanLyQuanTraSua\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+G:\Coding sth\asd\QuanLyQuanTraSua\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+G:\Coding sth\asd\QuanLyQuanTraSua\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+G:\Coding sth\asd\QuanLyQuanTraSua\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+G:\Coding sth\asd\QuanLyQuanTraSua\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+G:\Coding sth\asd\QuanLyQuanTraSua\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+G:\Coding sth\asd\QuanLyQuanTraSua\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+G:\Coding sth\asd\QuanLyQuanTraSua\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+G:\Coding sth\asd\QuanLyQuanTraSua\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+G:\Coding sth\asd\QuanLyQuanTraSua\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+G:\Coding sth\asd\QuanLyQuanTraSua\obj\Debug\QuanLyQuanTraSua.frmReport.resources
+G:\Coding sth\asd\QuanLyQuanTraSua\obj\Debug\RdlCompile.cache
+G:\Coding sth\asd\QuanLyQuanTraSua\obj\Debug\RdlCompile.compiled
+G:\Coding sth\asd\QuanLyQuanTraSua\bin\Debug\EntityFramework.dll
+G:\Coding sth\asd\QuanLyQuanTraSua\bin\Debug\EntityFramework.SqlServer.dll
+G:\Coding sth\asd\QuanLyQuanTraSua\bin\Debug\EntityFramework.xml
+G:\Coding sth\asd\QuanLyQuanTraSua\bin\Debug\EntityFramework.SqlServer.xml
+G:\Coding sth\asd\QuanLyQuanTraSua\obj\Debug\QuanLyQuanTraSua.csproj.AssemblyReference.cache
